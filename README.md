@@ -22,6 +22,7 @@
 <a href="https://twitter.com/bueledenis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bueledenis" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/denis-cuenca-0993981b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denis-cuenca-0993981b2" height="30" width="40" /></a>
 <a href="https://fb.com/den.cuenca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="den.cuenca" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
