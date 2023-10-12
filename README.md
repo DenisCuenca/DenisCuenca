@@ -1,3 +1,6 @@
+[![MasterHead](https://media.tenor.com/Cxhbf20E_EoAAAAd/banner.gif)](https://media.tenor.com)
+
+
 <h1 align="center">Hi 👋, I'm Denis Cuenca</h1>
 <h3 align="center">Full Stack developer from Ecuador</h3>
 
